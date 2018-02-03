@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/javierGit01/mysqlconect/issues"
   },
-  "homepage": "https://github.com/javierGit01/mysqlconect#readme"
+  "homepage": "https://github.com/javierGit01/mysqlconect#readme",
+  "dependencies": {
+    "mysql": "^2.15.0"
+  }
 }
