@@ -27,7 +27,7 @@ mainRecursiveAsyncReadLine = function () {
         default:
           console.log("No such option. Please enter another: ");
       }
-      mainRecursiveAsyncReadLine(); //Calling this function again to ask new question
+      mainRecursiveAsyncReadLine();
     });
 };
 
